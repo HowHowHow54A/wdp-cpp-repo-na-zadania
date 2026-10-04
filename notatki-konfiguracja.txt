@@ -1,0 +1,2 @@
+ls wyświetla zawartość katalogu, a cat wyświetla zawartość wskazanego pliku.
+commit zapisuje zmiany w lokalnym repozytorium, a push wysyła lokalne commity do zdalnego repozytorium, np. na GitHub.
